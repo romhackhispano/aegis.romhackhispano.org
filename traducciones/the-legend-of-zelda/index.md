@@ -20,6 +20,6 @@ screenshots:
 - /img/proyectos/banjo/05.jpg
 - /img/proyectos/banjo/06.jpg
 ---
-![adsfadfs](img/zelda/zelda01.png)
+![adsfadfs](/traducciones/the-legend-of-zelda/zelda01.png)
 
 Lorem ipsum
