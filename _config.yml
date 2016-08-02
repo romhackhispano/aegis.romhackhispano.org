@@ -12,9 +12,7 @@ theme:
 
   # Header and footer text
   # header_text: >
-  #   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  #
-  #   <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>La página está en construcción; o mejor dicho, de mudanzas. Es posible que falten cosas, que los enlaces estén más rotos que un jarrón de Ming en Worms Armageddon o que las páginas no tengan gusto por los colores y tipografías. En los siguientes enlaces encontrarás enlaces alternativos al contenido que se expondrá aquí. <a href="http://www.romhacking.net/community/2570/">Romhacking.net</a> <a href="https://twitter.com/TheFireRed">@TheFireRed</a> </p>
   # header_text_feature_image:
   footer_text: >
      Este sitio está alojado en <a href="http://www.romhackhispano.org">Romhack Hispano</a> y funciona bajo <a href="http://jekyllrb.com">Jekyll</a>.
