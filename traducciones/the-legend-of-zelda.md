@@ -5,9 +5,6 @@ permalink: /traducciones/the-legend-of-zelda
 feature-img: "traducciones/img/zelda/zelda00.jpg"
 hide: true
 author: TheFireRed
-  login: admin
-  email: mrheston@tales-tra.com
-  url: http://blog.org.es
 date: '2010-02-19 01:52:07 +0100'
 categories:
 - Traducciones
