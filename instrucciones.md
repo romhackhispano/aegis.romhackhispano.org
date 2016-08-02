@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instrucciones
-permalink: /Instrucciones/
+permalink: /instrucciones/
 hide: true
 ---
 ## Parches en formato IPS/BPS
