@@ -8,18 +8,22 @@ author: TheFireRed
 date: '2010-02-19 01:52:07 +0100'
 categories:
 - Traducciones
-tags: []
+tags: [The Legend of Zelda]
 team:
 - TheFireRed
 - CUE
 screenshots:
-- /img/proyectos/banjo/01.jpg
-- /img/proyectos/banjo/02.jpg
-- /img/proyectos/banjo/03.jpg
-- /img/proyectos/banjo/04.jpg
-- /img/proyectos/banjo/05.jpg
-- /img/proyectos/banjo/06.jpg
+- /traducciones/the-legend-of-zelda/zelda01.png
+- /traducciones/the-legend-of-zelda/zelda02.png
+- /traducciones/the-legend-of-zelda/zelda03.png
+- /traducciones/the-legend-of-zelda/zelda04.png
+- /traducciones/the-legend-of-zelda/zelda05.png
+- /traducciones/the-legend-of-zelda/zelda06.png
+- /traducciones/the-legend-of-zelda/zelda07.png
 ---
-![adsfadfs](/traducciones/the-legend-of-zelda/zelda01.png)
+![](/traducciones/the-legend-of-zelda/zelda01.png)![](/traducciones/the-legend-of-zelda/zelda02.png)![](/traducciones/the-legend-of-zelda/zelda03.png)![](/traducciones/the-legend-of-zelda/zelda04.png)![](/traducciones/the-legend-of-zelda/zelda05.png)![](/traducciones/the-legend-of-zelda/zelda06.png)![](/traducciones/the-legend-of-zelda/zelda07.png)
 
-Lorem ipsum
+
+
+<a class="button" href="/traducciones/the-legend-of-zelda/zelda.zip">Parche</a> <a class="button" href="/instrucciones">Instrucciones</a> 
+
