@@ -50,8 +50,8 @@ theme:
   str_follow_on: "Sígueme en"
   str_rss_follow: "RSS"
   str_email: "Email"
-  str_next: "Siguiente »"
-  str_prev: "« Anterior"
+  str_next: "Siguiente"
+  str_prev: "Anterior"
   str_continue_reading: "Seguir leyendo"
 
   # Colours, typography and padding
