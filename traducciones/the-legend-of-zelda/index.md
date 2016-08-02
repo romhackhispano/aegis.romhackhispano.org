@@ -2,7 +2,7 @@
 layout: tradu
 title: The Legend of Zelda
 permalink: /traducciones/the-legend-of-zelda/
-feature-img: "traducciones/img/zelda/zelda00.jpg"
+feature-img: "traducciones/the-legend-of-zelda/zelda00.jpg"
 hide: true
 author: TheFireRed
 date: '2010-02-19 01:52:07 +0100'
