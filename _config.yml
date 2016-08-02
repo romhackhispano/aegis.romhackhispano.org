@@ -8,7 +8,7 @@ theme:
   title: Aegis Traducciones
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "AegisTrad es el templo donde publico traducciones de videojuegos que me encantan y que lamentablemente no llegaron a verse en español. "
 
   # Header and footer text
   header_text: >
@@ -17,8 +17,9 @@ theme:
      <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-
+     Este sitio está alojado en <a href="http://www.romhackhispano.org">Romhack Hispano</a> y funciona bajo <a href="http://jekyllrb.com">Jekyll</a> con el tema <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> modificado por TheFireRed.
+  # El contenido mostrado aquí es copyright de sus respectivos autores originales. Aegis Traducciones condena el empleo de <i>software</i> obtenido de manera ilegal y no se hace responsable de los efectos causados por el mal uso de las herramientas publicadas en este sitio. Consulta la <a href="https://help.disqus.com/customer/portal/articles/466259-privacy-policy">política de privacidad</a>. Aegis Traducciones es posible gracias a la inestimable colaboración de la escena hispana.
+	
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"

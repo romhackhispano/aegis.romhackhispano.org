@@ -1,14 +1,1 @@
-# Type Theme
-
-![Default Type Theme blog](https://cloud.githubusercontent.com/assets/816965/5142407/19742e48-71d6-11e4-8d9d-fdfe010784f0.png)
-
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
-
-## Get Started
-
-[Demo](https://rohanchandra.github.io/type-theme/)
-
-[Using Type](https://rohanchandra.github.io/project/type/)
-
-## License
-The MIT License (MIT)
+Aegis Traducciones es mi templo personal donde publico traducciones de videojuegos que me encantan y que lamentablemente no llegaron a verse en español. Este sitio está alojado en <a href="http://www.romhackhispano.org">Romhack Hispano</a> y funciona bajo <a href="http://jekyllrb.com">Jekyll</a> con el tema <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> modificado por TheFireRed. El contenido mostrado aquí es copyright de sus respectivos autores originales. Aegis Traducciones condena el empleo de <i>software</i> obtenido de manera ilegal y no se hace responsable de los efectos causados por el mal uso de las herramientas publicadas en este sitio. Consulta la <a href="https://help.disqus.com/customer/portal/articles/466259-privacy-policy">política de privacidad</a> de terceros. Aegis Traducciones es posible gracias a la inestimable colaboración de la escena hispana.
