@@ -1,7 +1,7 @@
 ---
 layout: tradu
 title: The Legend of Zelda
-permalink: /traducciones/the-legend-of-zelda
+permalink: /traducciones/the-legend-of-zelda/
 feature-img: "traducciones/img/zelda/zelda00.jpg"
 hide: true
 author: TheFireRed
