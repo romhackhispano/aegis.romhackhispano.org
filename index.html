@@ -20,7 +20,7 @@ layout: default
           </a>
         </h1>
         <p class="meta">
-          {{ post.date | date: "%B %-d, %Y" }}
+          {{ post.date | localize: ":long" }}
         </p>
       </header>
       <div class="excerpt">
