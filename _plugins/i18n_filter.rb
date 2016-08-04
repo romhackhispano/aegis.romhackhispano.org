@@ -1,11 +1,10 @@
 require 'i18n'
 
-LOCALE = :es-ES # set your locale
+LOCALE = Jekyll.configuration({})['es-ES'] # set your locale from config var
 
 # Create folder "_locales" and put some locale file from https://github.com/svenfuchs/rails-i18n/tree/master/rails/locale
 module Jekyll
   module I18nFilter
-
     # Example:
     #   {{ post.date | localize: "%d.%m.%Y" }}
     #   {{ post.date | localize: ":short" }}
@@ -13,10 +12,12 @@ module Jekyll
       load_translations
       format = (format =~ /^:(\w+)/) ? $1.to_sym : format
       I18n.l input, :format => format
+    rescue
+      "error"
     end
 
     def load_translations
-      unless I18n::backend.instance_variable_get(:@translations)
+      if I18n.backend.send(:translations).empty?
         I18n.backend.load_translations Dir[File.join(File.dirname(__FILE__),'../_locales/*.yml')]
         I18n.locale = LOCALE
       end
