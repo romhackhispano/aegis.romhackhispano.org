@@ -21,6 +21,7 @@ screenshots:
 - /traducciones/the-legend-of-zelda/zelda06.png
 - /traducciones/the-legend-of-zelda/zelda07.png
 patch: "/traducciones/the-legend-of-zelda/zelda.zip"
+patch-ver: 1.01
 instructions: "/instrucciones/"
 link: "http://www.romhacking.net/translations/2243/"
 link-name: RHDN

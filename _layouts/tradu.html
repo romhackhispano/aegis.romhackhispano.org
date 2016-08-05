@@ -7,12 +7,12 @@ layout: default
   </header>
   <section class="post-content">
     {% for screenshot in page.screenshots %}
-    <p><img src="{{ screenshot }}"/></p>
+    <img src="{{ screenshot }}"/>
     {% endfor %}
 	
-    <p>
+    <p align="center">
 	{% if page.patch %}
-	<a class="button" href="{{ page.patch }}">Parche</a>
+	<a class="button" href="{{ page.patch }}">Parche ({{ page.patch-ver }})</a>
     {% endif %}
     {% if page.instructions %}
 	<a class="button" href="{{ page.instructions }}">Instrucciones</a>
