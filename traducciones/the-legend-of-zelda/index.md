@@ -28,6 +28,7 @@ link-name: RHDN
 ---
 ## Créditos
 En el proyecto han participado las siguientes personas:
+
  - TheFireRed: traducción y hacking básico
  - CUE: asistencia en romhacking, sugerencias y testing
  - Linkale2: testing y sugerencias iniciales 

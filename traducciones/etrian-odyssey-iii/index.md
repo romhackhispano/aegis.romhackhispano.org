@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tradu
 title: Etrian Odyssey III
 permalink: /traducciones/etrian-odyssey-iii/
 feature-img: "traducciones/etrian-odyssey-iii/eo3-00.jpg"
