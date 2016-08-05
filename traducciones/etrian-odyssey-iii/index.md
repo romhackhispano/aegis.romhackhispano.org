@@ -8,7 +8,7 @@ author: TheFireRed
 date: '2010-02-19 01:52:07 +0100'
 categories:
 - Traducciones
-tags: [Etrian Odyssey III]
+project_tag: [Etrian Odyssey III]
 team:
 - TheFireRed
 - JuDelCo

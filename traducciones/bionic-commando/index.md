@@ -8,7 +8,7 @@ author: TheFireRed
 date: '2014-07-04 01:52:07 +0100'
 categories:
 - Traducciones
-tags: [Bionic Commando]
+project_tag: [Bionic Commando]
 team:
 - TheFireRed
 - Pennywise

@@ -23,6 +23,15 @@ layout: default
 	</p>
 
 	{{ content }}
+	{% for post2 in site.posts%}{% if post2.tags contains page.project_tag %}
+    <h1 class="title">Noticias del proyecto</h1>
+		<li>
+			<a href="{{ post2.url }}">{{ post2.title }}</a>
+			- <span style="color:#aaa;">
+			{{ post2.date | date: "%-d de %b de %Y" }}
+			</span>
+		</li>
+	{% endif %}{% endfor %}
   </section>
   
 </article>

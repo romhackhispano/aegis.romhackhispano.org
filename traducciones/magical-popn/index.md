@@ -8,7 +8,7 @@ author: TheFireRed
 date: '2014-07-04 01:52:07 +0100'
 categories:
 - Traducciones
-tags: [Magical Pop'n]
+project_tag: [Magical Pop'n]
 team:
 - TheFireRed
 - Pennywise
