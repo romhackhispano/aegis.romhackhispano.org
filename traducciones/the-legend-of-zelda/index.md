@@ -40,7 +40,7 @@ Si te pasas por cualquier colección de ROMs, es probable que encuentres alguna 
 
 Mi traducción presenta las siguientes características:
 
-* Símbolos y caracteres especiales del español añadidos: ¡ ¿ Á É Í Ó Ú Ñ Ü
+* Símbolos y caracteres especiales del español añadidos: `¡ ¿ Á É Í Ó Ú Ñ Ü`
 * Historia inicial y guión traducidos a partir de la retraducción de 2003
 * Los nombres de los créditos ahora son los originales y no pseudónimos
 * Otros textos como GAME OVER, INVENTORY o MAP están también adaptados
@@ -48,10 +48,10 @@ Mi traducción presenta las siguientes características:
 ## Proyectos relacionados
 Precisamente en este mismo año 2014, además de esta traducción, mi compañero Orden también presentó su propuesta para traducir el juego, aunque tiene algunas limitaciones como la ausencia de tildes. Sin embargo, eso no quita que sea un trabajo espectacular. Podéis echarle un vistazo a través de [este enlace](http://www.romhacking.net/translations/2182/).
 
-Y también, con escasos días de diferencia, mis compañeros CUE y Lukas sacaron una nueva versión del parche de traducción de [Link's Awakening DX](http://www.romhacking.net/translations/2244/]. Tiene muchísimas novedades y además ya no tiene censura. ¡No os la perdáis!
+Y también, con escasos días de diferencia, mis compañeros CUE y Lukas sacaron una nueva versión del parche de traducción de [Link's Awakening DX](http://www.romhacking.net/translations/2244/). Tiene muchísimas novedades y además ya no tiene censura. ¡No os la perdáis!
 
 ## Información de la ROM
-Necesitarás volcar tu copia original de The Legend of Zelda en un archivo NES. El parche es compatible con las versiones americana y europea. Comprueba que tu ROM cumple con el siguiente CRC32:
+Necesitarás volcar tu copia original de ***The Legend of Zelda*** en un archivo NES. El parche es compatible con las versiones americana y europea. Comprueba que tu ROM cumple con el siguiente CRC32:
 
 ```
 (E) (PRG1) [!] 3C07A00A
