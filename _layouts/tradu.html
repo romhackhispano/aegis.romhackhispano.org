@@ -5,9 +5,9 @@ layout: default
   <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
     <h1 class="title">{{ page.title }}</h1>
   </header>
-  
+  <section class="post-content">
     {% for screenshot in page.screenshots %}
-    <img src="{{ screenshot }}"/>
+    <p><img src="{{ screenshot }}"/></p>
     {% endfor %}
 	
     <p>
@@ -21,5 +21,7 @@ layout: default
 	<a class="button" href="{{ page.link }}">{{ page.link-name }}</a>
 	{% endif %}
 	</p>
-  <section class="post-content">{{ content }}</section>
+	
+  {{ content }}
+  </section>
 </article>
