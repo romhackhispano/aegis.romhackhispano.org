@@ -12,16 +12,18 @@ layout: default
 	
     <p align="center">
 	{% if page.patch %}
-	<a class="button" href="{{ page.patch }}">Parche ({{ page.patch-ver }})</a>
+		<a class="button" href="{{ page.patch }}">Parche ({{ page.patch-ver }})</a>
     {% endif %}
     {% if page.instructions %}
-	<a class="button" href="{{ page.instructions }}">Instrucciones</a>
+		<a class="button" href="{{ page.instructions }}">Instrucciones</a>
 	{% endif %}
     {% if page.link %}
-	<a class="button" href="{{ page.link }}">{{ page.link-name }}</a>
+		<a class="button" href="{{ page.link }}">{{ page.link-name }}</a>
 	{% endif %}
 	</p>
-	
-  {{ content }}
   </section>
+  <section class="post-content">
+	{{ content }}
+  </section>
+  
 </article>
