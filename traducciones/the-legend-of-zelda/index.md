@@ -21,6 +21,9 @@ screenshots:
 - /traducciones/the-legend-of-zelda/zelda06.png
 - /traducciones/the-legend-of-zelda/zelda07.png
 patch: "/traducciones/the-legend-of-zelda/zelda.zip"
+patch_ips: "/traducciones/the-legend-of-zelda/zelda1.01.ips"
+patch_ips_output_name: "Legend of Zelda, The (U) (PRG 1) - Español.nes"
+patch_ips_crcs: "[0x3C07A00A, 0x02BB0C56]"
 patch-ver: 1.01
 instructions: "/instrucciones/"
 link: "http://www.romhacking.net/translations/2243/"
