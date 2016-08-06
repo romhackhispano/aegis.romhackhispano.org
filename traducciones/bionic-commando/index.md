@@ -8,7 +8,7 @@ author: TheFireRed
 date: '2014-07-04 01:52:07 +0100'
 categories:
 - Traducciones
-project_tag: [Bionic Commando]
+project_tag: "Bionic Commando"
 team:
 - TheFireRed
 - Pennywise
@@ -18,6 +18,9 @@ screenshots:
 - /traducciones/bionic-commando/hitler03.png
 - /traducciones/bionic-commando/hitler04.png
 patch: "/traducciones/bionic-commando/hitler.zip"
+patch_ips: "/traducciones/the-legend-of-zelda/hitler.ips"
+patch_ips_output_name: "Hitler no Fukkatsu - Top Secret (J) [T+Spa_TheFireRed].nes"
+patch_ips_crcs: "[16A0A3A3]"
 patch-ver: 1.03es
 instructions: "/instrucciones/"
 link: "http://www.romhacking.net/translations/2051/"
@@ -48,15 +51,11 @@ A continuación daré algunos detalles sobre ciertos problemas a los que he teni
 - En el área 17 hay un rehén enemigo al que puedes torturar para obtener información. Tras golpearle varias veces con el brazo biónico, te dará los detalles sobre los túneles secretos, pero si sigues haciéndolo podrá darte el resto de armas del juego en caso de que no las tengas.
 
 ## Información de la ROM
-Necesitarás volcar tu copia original de ***Hitler no Fukkatsu - Top Secret*** en un archivo NES. El parche es únicamente compatible con la versión japonesa del juego. Comprueba que tu ROM cumple con los siguientes datos:
+Necesitarás volcar tu copia original de ***Hitler no Fukkatsu - Top Secret*** en un archivo NES. El parche es únicamente compatible con la versión japonesa del juego. Comprueba que tu ROM cumple con el siguiente CRC32:
 
 ```
-Hitler no Fukkatsu - Top Secret (J).nes
-
+Hitler no Fukkatsu - Top Secret (J)
 CRC32: 16A0A3A3
-MD5: c3fd72580c5ca25bcf5cd73674695e27
-SHA-1: 95B2782B26FD1CEF86997E59885358C410F832B0
-MD5: 8417e256eb37b5099642571e0a084bae
 ```
 
 A continuación, sigue el procedimiento indicado en la sección [Instrucciones](/instrucciones/).
@@ -64,8 +63,6 @@ A continuación, sigue el procedimiento indicado en la sección [Instrucciones](
 ## Advertencias sobre la reproducción de cartuchos
 Quiero dejar constancia, con respecto a la reproducción de cartuchos, de que SOY PARTIDARIO de su creación y proliferación, pero ESTOY TOTALMENTE EN CONTRA DE LA VENTA DE REPRODUCCIONES DE CUALQUIER FORMA. SI UTILIZAS ESTE PARCHE (O CUALQUIER OTRO DE LA COMUNIDAD DE ROMHACKING) HE DE PEDIRTE AMABLEMENTE QUE SEA ÚNICAMENTE PARA TU PROPIO USO PERSONAL Y NO PARA VENDERLO EN FORMA DE CARTUCHO REPRODUCIDO O FALSA EDICIÓN EXCLUSIVA LIMITADA. TAMPOCO DESEO A CAMBIO MENCIONES, CRÉDITOS NI AGRADECIMIENTOS POR EL TRABAJO, PUESTO QUE NO SOY PROPIETARIO DEL CONTENIDO DEL JUEGO, SINO SOLO DE SU TRADUCCIÓN. SI AUN ASÍ ESTÁS DISPUESTO A REALIZAR TAL ACTO, NO ME HAGO RESPONSABLE DE NADA, PERO SÍ DEBERÁS ATENERTE A LAS CONSECUENCIAS:
 
-1) ESTARÁS HACIENDO DAÑO A LA COMUNIDAD DE TRADUCCIÓN Y ROMHACKING QUE HACE TODO ESTO POR MERO PLACER Y NO CON ÁNIMO DE LUCRO.
- 
-2) ESTARÁS DANDO CAMINO A QUE LA GENTE NO QUIERA SEGUIR MEJORANDO NI QUIERA EMBARCARSE EN NUEVOS PROYECTOS PORQUE UNA TERCERA PERSONA VAYA A LUCRARSE A SU COSTA.
- 
-3) SÉ QUE LAS MAYÚSCULAS DAN LA SENSACIÓN DE GRITAR, PERO SI NO LO ESCRIBO ASÍ PARECE QUE NO VOY EN SERIO.
+1. ESTARÁS HACIENDO DAÑO A LA COMUNIDAD DE TRADUCCIÓN Y ROMHACKING QUE HACE TODO ESTO POR MERO PLACER Y NO CON ÁNIMO DE LUCRO.
+2. ESTARÁS DANDO CAMINO A QUE LA GENTE NO QUIERA SEGUIR MEJORANDO NI QUIERA EMBARCARSE EN NUEVOS PROYECTOS PORQUE UNA TERCERA PERSONA VAYA A LUCRARSE A SU COSTA.
+3. SÉ QUE LAS MAYÚSCULAS DAN LA SENSACIÓN DE GRITAR, PERO SI NO LO ESCRIBO ASÍ PARECE QUE NO VOY EN SERIO.

@@ -3,16 +3,15 @@ layout: page
 title: Traducciones
 permalink: /traducciones/
 feature-img: "img/mominito.jpg"
-order: 1
 ---
 
 * [Bionic Commando](/traducciones/bionic-commando/)
 * [Etrian Odyssey III](/traducciones/etrian-odyssey-iii/)
 * [Magical Pop'n](/traducciones/magical-popn/)
-* [Shenmue II](/traducciones/tio-victor/)
-* [Sin and Punishment](/traducciones/tio-victor/)
-* [Soltys](/traducciones/tio-victor/)
-* [StepMania](/traducciones/stepmania/)
+* [Shenmue II](http://tiovictor.romhackhispano.org/)
+* [Sin and Punishment](http://tiovictor.romhackhispano.org/)
+* [Soltys](http://tiovictor.romhackhispano.org/)
+* [StepMania](http://www.stepmania.com/)
 * [The Legend of Zelda](/traducciones/the-legend-of-zelda/)
-* [What’s Shenmue](/traducciones/tio-victor/)
+* [What’s Shenmue](http://tiovictor.romhackhispano.org/)
 * [Yume Nikki](/#/) (más información próximamente)
