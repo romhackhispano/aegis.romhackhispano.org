@@ -2,7 +2,7 @@
 layout: page
 title: Traducciones
 permalink: /traducciones/
-feature-img: "img/mominito.jpg"
+feature-img: "img/momi-pond.jpg"
 ---
 
 * [Bionic Commando](/traducciones/bionic-commando/)
