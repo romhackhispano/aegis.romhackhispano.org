@@ -13,10 +13,8 @@ team:
 - TheFireRed
 - JuDelCo
 screenshots:
-- 
-patch: ""
-instructions: ""
-rhdn: ""
+patch:
+instructions: "/instrucciones/"
 ---
 <div class="call-out" style="background-image: url('/')">
     <p>En construcción</p>

@@ -38,19 +38,13 @@ No dispongo de muchos conocimientos técnicos por lo que no sabría detallar exa
 A continuación daré algunos detalles sobre ciertos problemas a los que he tenido que enfrentarme:
 
 - **bastards**: A lo largo del juego se utiliza esta palabra para definir a los alemanes. Estoy al tanto de la frecuente e incorrecta traducción de esta palabra como bastardo. Solo la he utilizado una vez en la secuencia introductoria como guiño a la película de Tarantino en español.
-
 - **Insultos varios**: No me gusta emplear mucho lenguaje vulgar, pero donde era necesario se han añadido palabras fuertes contrastando los diálogos en japonés (como por ejemplo, en la secuencia final de Hitler).
-
 - **Acento de los alemanes**: Siguiendo la estructura de Pennywise, los alemanes hablan con acento cuando te los encuentras cara a cara (en las escuchas no se aplica esta regla). Imagina que están hablando en alemán y que puedes entenderles con soltura.
-
 - **Trato de usted y tú**: Solo el coronel (que aparece en la secuencia introductoria y en otras más adelante) trata de usted al capitán protagonista, para indicar su rango superior en el ejército.
 
 ## Pistas
-
 - En el área 15 hay un arma que destruye la barrera, permitiéndote el acceso al resto de la misma. Sin embargo, es posible traspasar dicha barrera con tu brazo biónico.
-
 - En el área 7 hay una sala de comunicaciones donde los desarrolladores te dan ciertas pistas.
-
 - En el área 17 hay un rehén enemigo al que puedes torturar para obtener información. Tras golpearle varias veces con el brazo biónico, te dará los detalles sobre los túneles secretos, pero si sigues haciéndolo podrá darte el resto de armas del juego en caso de que no las tengas.
 
 ## Información de la ROM
