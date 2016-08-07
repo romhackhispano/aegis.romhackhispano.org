@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Etrian Odyssey III: Terminología
+title: Etrian Odyssey III\: Terminología
 permalink: /traducciones/etrian-odyssey-iii/terminologia/
 feature-img: "traducciones/etrian-odyssey-iii/eo3-00.jpg"
 hide: true

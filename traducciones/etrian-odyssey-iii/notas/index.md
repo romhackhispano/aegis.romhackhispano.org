@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Etrian Odyssey III: Notas
+title: Etrian Odyssey III » Notas
 permalink: /traducciones/etrian-odyssey-iii/notas/
 feature-img: "traducciones/etrian-odyssey-iii/eo3-00.jpg"
 hide: true

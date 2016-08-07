@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Etrian Odyssey III: Imágenes y hacking
+title: Etrian Odyssey III » Imágenes y hacking
 permalink: /traducciones/etrian-odyssey-iii/hacking/
 feature-img: "traducciones/etrian-odyssey-iii/eo3-00.jpg"
 hide: true
