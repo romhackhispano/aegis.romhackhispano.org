@@ -15,7 +15,8 @@ Desde <strong><a href="https://www.dropbox.com/s/ckhzrt77y0vbdge/Manual.pdf?dl=0
 
 Os dejo con este tema de Terranigma que me deja los pelos de punta cada vez que lo escucho.
 
-[youtube https://www.youtube.com/watch?v=Ds50q01oJdg]
+{% include youtube.html id="Ds50q01oJdg" %}
+
 
 Ah, el Jack Frost que he puesto de imagen es para desearos...
 <h1 style="text-align:center;">¡Una feliz Navidad!</h1>
