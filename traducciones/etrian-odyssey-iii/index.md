@@ -14,8 +14,6 @@ team:
 - JuDelCo
 screenshots:
 patch:
-instructions: "/instrucciones/"
+instructions:
 ---
-<div class="call-out" style="background-image: url('/')">
-    <p>En construcción</p>
-</div>
+<p align="center"> <a class="button" href="/traducciones/etrian-odyssey-iii/terminologia/">Terminología</a> <a class="button" href="/traducciones/etrian-odyssey-iii/hacking/">Imágenes y hacking</a> <a class="button" href="/traducciones/etrian-odyssey-iii/notas/">Notas</a></p>
