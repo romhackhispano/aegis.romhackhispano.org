@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tradu
 title: Etrian Odyssey III: Estado de los diálogos
 feature-img: "traducciones/etrian-odyssey-iii/eo3-00.jpg"
 hide: true
