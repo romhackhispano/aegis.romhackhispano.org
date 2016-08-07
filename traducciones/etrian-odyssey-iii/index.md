@@ -16,4 +16,4 @@ screenshots:
 patch:
 instructions:
 ---
-<a class="button" href="/traducciones/etrian-odyssey-iii/dialogos/">Diálogos</a> <a class="button" href="/traducciones/etrian-odyssey-iii/terminologia/">Terminología</a> <a class="button" href="/traducciones/etrian-odyssey-iii/hacking/">Imágenes y hacking</a> <a class="button" href="/traducciones/etrian-odyssey-iii/notas/">Notas</a></p>
+<p align="center"><a class="button" href="/traducciones/etrian-odyssey-iii/dialogos/">Diálogos</a> <a class="button" href="/traducciones/etrian-odyssey-iii/terminologia/">Terminología</a> <a class="button" href="/traducciones/etrian-odyssey-iii/hacking/">Imágenes y hacking</a> <a class="button" href="/traducciones/etrian-odyssey-iii/notas/">Notas</a></p>

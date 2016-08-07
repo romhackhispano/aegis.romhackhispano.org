@@ -12,6 +12,7 @@ project_tag: "Etrian Odyssey III"
 ---
 
 ## Localizaciones
+
 | Nombre                  | Traducción                    | Tipo        | Comentario                                                                                                                         | 
 |-------------------------|-------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------| 
 | Porcelain Forest        | Bosque de porcelana           | Laberinto   |                                                                                                                                    | 
