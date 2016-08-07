@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Etrian Odyssey III: Estado de los diálogos
-permalink: /traducciones/etrian-odyssey-iii/dialogos/
 feature-img: "traducciones/etrian-odyssey-iii/eo3-00.jpg"
 hide: true
 author: TheFireRed
