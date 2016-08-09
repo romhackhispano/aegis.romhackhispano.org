@@ -11,14 +11,14 @@ theme:
   description: "AegisTrad es el templo donde publico traducciones de videojuegos que me encantan y que lamentablemente no llegaron a verse en español. "
 
   # Header and footer text
-  header_text: >
-     <p>La página está en construcción; o mejor dicho, de mudanzas. Es posible que falten cosas, que los enlaces estén más rotos que un jarrón de Ming en Worms Armageddon o que las páginas no tengan gusto por los colores y tipografías. En los siguientes enlaces encontrarás enlaces alternativos al contenido que se expondrá aquí. <a href="http://www.romhacking.net/community/2570/">Romhacking.net</a> <a href="https://twitter.com/TheFireRed">@TheFireRed</a> </p>
-  header_text_feature_image:
+  # header_text: >
+  #   <p>La página está en construcción; o mejor dicho, de mudanzas. Es posible que falten cosas, que los enlaces estén más rotos que un jarrón de Ming en Worms Armageddon o que las páginas no tengan gusto por los colores y tipografías. En los siguientes enlaces encontrarás enlaces alternativos al contenido que se expondrá aquí. <a href="http://www.romhacking.net/community/2570/">Romhacking.net</a> <a href="https://twitter.com/TheFireRed">@TheFireRed</a> </p>
+  # header_text_feature_image:
   footer_text: >
-     Este sitio está alojado en <a href="http://www.romhackhispano.org">Romhack Hispano</a> y funciona bajo <a href="http://jekyllrb.com">Jekyll</a>.
+     Este sitio está alojado en <a href="http://www.romhackhispano.org">Romhack Hispano</a> y funciona bajo <a href="http://jekyllrb.com">Jekyll</a> en <a href="http://github.com">GitHub</a>.
   # El contenido mostrado aquí es copyright de sus respectivos autores originales. Aegis Traducciones condena el empleo de <i>software</i> obtenido de manera ilegal y no se hace responsable de los efectos causados por el mal uso de las herramientas publicadas en este sitio. Consulta la <a href="https://help.disqus.com/customer/portal/articles/466259-privacy-policy">política de privacidad</a>. Aegis Traducciones es posible gracias a la inestimable colaboración de la escena hispana.  con el tema <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> modificado por TheFireRed.
   # Icons
-  rss: false
+  rss: true
   email_address:
   behance:
   bitbucket:
