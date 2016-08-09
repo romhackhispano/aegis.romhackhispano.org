@@ -1,15 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aegis.romhackhispano.org" # the base hostname & protocol for your site
+title: Aegis Traducciones
+description: "AegisTrad es el templo donde publico traducciones de videojuegos que me encantan y que lamentablemente no llegaron a verse en español. "
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Aegis Traducciones
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "AegisTrad es el templo donde publico traducciones de videojuegos que me encantan y que lamentablemente no llegaron a verse en español. "
-
   # Header and footer text
   # header_text: >
   #   <p>La página está en construcción; o mejor dicho, de mudanzas. Es posible que falten cosas, que los enlaces estén más rotos que un jarrón de Ming en Worms Armageddon o que las páginas no tengan gusto por los colores y tipografías. En los siguientes enlaces encontrarás enlaces alternativos al contenido que se expondrá aquí. <a href="http://www.romhacking.net/community/2570/">Romhacking.net</a> <a href="https://twitter.com/TheFireRed">@TheFireRed</a> </p>
