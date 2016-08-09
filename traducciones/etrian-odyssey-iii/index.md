@@ -22,6 +22,9 @@ link-name: GitHub
  
 
 © 2010 ATLUS
+
 Licensed to and published by Atlus U.S.A., Inc.
+
 Nintendo DS is a trademark of Nintendo. © 2006 Nintendo.
+
 TheFireRed is not affiliated with ATLUS, Atlus U.S.A., Inc., NIS America, Inc. Europe, and/or Nintendo Iberica, S.A in any way.
