@@ -6,6 +6,7 @@ feature-img: "traducciones/etrian-odyssey-iii/eo3-00.jpg"
 hide: true
 author: TheFireRed
 date: '2010-02-19 01:52:07 +0100'
+description: "Allende los mares, reside la ciudad oceánica de Armoroad. Dice la leyenda que una parte de la ciudad se sumergió súbitamente, llevándose consigo una tecnología vanguardista que ahora está perdida para siempre."
 categories:
 - Traducciones
 project_tag: "Etrian Odyssey III"

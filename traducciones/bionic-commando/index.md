@@ -6,6 +6,7 @@ feature-img: "traducciones/bionic-commando/hitler00.jpg"
 hide: true
 author: TheFireRed
 date: '2014-07-04 01:52:07 +0100'
+description: "Reventándole la cabeza a Hitler desde 1988."
 categories:
 - Traducciones
 project_tag: "Bionic Commando"

@@ -6,6 +6,7 @@ feature-img: "traducciones/the-legend-of-zelda/zelda00.jpg"
 hide: true
 author: TheFireRed
 date: '2014-07-04 01:52:07 +0100'
+description: "Solo yo sé lo que era el titi y los chupetes en este juego."
 categories:
 - Traducciones
 project_tag: "The Legend of Zelda"

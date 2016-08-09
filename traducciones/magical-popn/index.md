@@ -6,6 +6,7 @@ feature-img: "traducciones/magical-popn/magical-popn00.jpg"
 hide: true
 author: TheFireRed
 date: '2014-07-04 01:52:07 +0100'
+description: "Os diré un secreto. La actriz que daba voz a la prota del juego es actriz porno."
 categories:
 - Traducciones
 project_tag: "Magical Pop'n"
