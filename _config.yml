@@ -2,10 +2,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aegis.romhackhispano.org" # the base hostname & protocol for your site
 
-# REDUNDANT INFORMATION FOR TWITTER CARDS
-title: Aegis Traducciones
-description: "AegisTrad es el templo donde publico traducciones de videojuegos que me encantan y que lamentablemente no llegaron a verse en español. "
-
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
