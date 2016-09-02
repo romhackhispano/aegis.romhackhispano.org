@@ -14,4 +14,4 @@ feature-img: "img/momi-pond.jpg"
 * [StepMania](http://www.stepmania.com/)
 * [The Legend of Zelda](/traducciones/the-legend-of-zelda/)
 * [What’s Shenmue](http://tiovictor.romhackhispano.org/)
-* [Yume Nikki](/#/) (más información próximamente)
+* [Yume Nikki](/traducciones/yume-nikki/)

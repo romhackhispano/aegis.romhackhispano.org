@@ -2,26 +2,26 @@
 layout: tradu
 title: Yume Nikki
 permalink: /traducciones/yume-nikki/
-feature-img: "traducciones/magical-popn/yn00.jpg"
+feature-img: "traducciones/yume-nikki/yn00.jpg"
 hide: true
 author: TheFireRed
 date: '2014-07-04 01:52:07 +0100'
 description: "Es bastante rarito, pero entretiene bastantes horas."
 categories:
 - Traducciones
-project_tag: "Magical Pop'n"
+project_tag: "Yume Nikki"
 team:
 - TheFireRed
-- Pennywise
 screenshots:
 - /traducciones/yume-nikki/yn01.png
 - /traducciones/yume-nikki/yn02.png
 - /traducciones/yume-nikki/yn03.png
 - /traducciones/yume-nikki/yn04.png
-link: "#"
+link: "https://github.com/AegisTrad/yume-nikki/releases/latest"
 link-name: Descargar juego completo
 ---
 ### Créditos ###
+
 #### De la versión en inglés ####
 - Desconozco el autor de la traducción al inglés, pero agradezco su labor ya que sin su ayuda esto no habría sido posible. 
 - Uboachan y wiki en inglés de Yume Nikki.
@@ -31,14 +31,14 @@ link-name: Descargar juego completo
 - Lautaro1428: colaboración en corrección de errores
 
 #### Controles ####
-Teclas de dirección: Moverse.
-Tecla Z o Enter: Acción, Confirmar.
-Tecla X o Esc: Cancelar, Menú.
-Tecla 1: Utilizar Efecto.
-Tecla 3: Cancelar Efecto.
-Tecla 5: Depositar Efecto.
-Tecla 9: Despertarse.
-Tecla F4: Activar/Desactivar pantalla completa.
+- Teclas de dirección: Moverse.
+- Tecla Z o Enter: Acción, Confirmar.
+- Tecla X o Esc: Cancelar, Menú.
+- Tecla 1: Utilizar Efecto.
+- Tecla 3: Cancelar Efecto.
+- Tecla 5: Depositar Efecto.
+- Tecla 9: Despertarse.
+- Tecla F4: Activar/Desactivar pantalla completa.
 
 ### Pistas ###
 - Ve a la cama a dormir y abre la puerta para entrar al Mundo de los sueños.
