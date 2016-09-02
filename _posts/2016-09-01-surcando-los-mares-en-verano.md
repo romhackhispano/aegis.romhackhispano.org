@@ -2,6 +2,7 @@
 layout: post
 title: Surcando los mares en verano
 date: 2016-09-01 19:35
+feature-img: "traducciones/etrian-odyssey-iii/eo3-p.jpg"
 author: TheFireRed
 description: "En verano es precisamente cuando tengo más tiempo libre. También me preocupa la ley de economía expresiva."
 comments: true
