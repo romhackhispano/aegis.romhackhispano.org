@@ -17,10 +17,10 @@ En las últimas dos semanas he hecho numerosos avances en la traducción de diá
 - La carpeta **Dungeon** es bastante más amplia, con 28 archivos (aunque me atrevería a decir que más de uno son archivos *debug* que no deberían aparecer en el juego). Como podríais deducir, incluyen los diálogos de todas las descripciones y acontecimientos que ocurren en el laberinto si no están ligadas a una misión o a un encargo. La carpeta estaría completamente traducida si no fuera por el archivo DUN_26F, que pese a su nombre, ¡es en realidad la exploración del mar en barco! Ocupa el espacio equivalente a unas 15 plantas del laberinto. Uff.
 - He abierto [31 informes](https://github.com/AegisTrad/EO3es/issues) con cosas que tengo que corregir en un futuro. Sin embargo, hay uno que me preocupa más que el resto: [*«Cuestión de género y número»*](https://github.com/AegisTrad/EO3es/issues/9). En resumen, mi problema reside en cómo *abordar* el género y número de los adjetivos y verbos cuando los diálogos hacen referencia al grupo. Al principio consideré que el jugador crearía un equipo «mixto» y por esa razón utilicé masculino plural siguiendo la ley lingüística de economía expresiva ([→ consultar Diccionario panhispánico de dudas, género, 2.2.1)](http://lema.rae.es/dpd/?key=g%C3%A9nero). Pero a medio camino me di cuenta de que el jugador podría, en su lugar, crear un equipo exclusivamente formado por mujeres; por tanto, la traducción de diálogos ahora está reescrita para que los adjetivos y verbos *no exijan masculino*. He ahí mi encrucijada de reescribir los primeros párrafos «mixtos» como la segunda proposición. En efecto, reescribiré todos estos fragmentos, pero al menos me gustaría saber lo que opináis vosotros antes de leer concienzudamente el corpus de la traducción del primer *Etrian Odyssey* y de cambiarlos. Os dejo una muestra real de ambas propuestas:
 
-![]({{ site.url }}/img/posts/eo3_genero_a.png/)
+![]({{ site.url }}/img/posts/eo3_genero_a.png)
 Primer caso: el grupo «es mixto» y utilizo masculino plural.
 
-![]({{ site.url }}/img/posts/eo3_genero_b.png/)
+![]({{ site.url }}/img/posts/eo3_genero_b.png)
 Segundo caso: no están «cansados», sino que sienten fatiga, y por tanto evito emplear un adjetivo masculino.
 
 - Similar al caso anterior, la clase *Farmer* usará la palabra *Agrícola*. El juego hace distinción entre *Príncipe* y *Princesa*, pero no para otras clases. Ahora que lo pienso, lo más probable es que *Buccaneer* tenga que cambiarse a *Pirata*...
