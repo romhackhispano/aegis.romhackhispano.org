@@ -16,3 +16,22 @@
 // Partials
 @import 'includes/header';
 @import 'includes/footer';
+
+.tradu {
+  width: 10em;
+  text-align: center;
+}
+
+.tradu .image {
+  height: 10em;
+  overflow: hidden;
+}
+
+.tradu .image img {
+  width: 100%;
+  height: auto;
+}
+
+.tradu a {
+  
+}
