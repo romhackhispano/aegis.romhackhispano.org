@@ -42,14 +42,12 @@ a.button:hover {
 }
 
 .tradu .image {
-  height: 10em;
-  width: 10em;
+  height: 9.5em;
+  width: 9.5em;
   overflow: hidden;
   border-radius: 0.3em;
-  border-color: #9C000;
-  border: 1px solid;
+  border: 1px solid #9c0000;
   display: inline-block;
-  margin: 1em;
   padding: 0.5em 0.75em;
 }
 
@@ -62,4 +60,5 @@ a.button:hover {
 .tradu a {
   color: #FFFFFF;
   text-shadow: 0px 0px 8px #000000;
+  bottom: 3px;
 }
