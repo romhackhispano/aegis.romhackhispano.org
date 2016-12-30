@@ -5,5 +5,16 @@ layout: default
   <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
     <h1 class="title" style="text-shadow: 0px 0px 8px #000000;">{{ page.title }}</h1>
   </header>
-  <section class="post-content">{{ content }}</section>
+  <section class="post-content">
+  
+  	{% for page in site.data.tradus %}
+		<div class="tradu">
+			<div class="image">
+				<img src="https://dracon.es/plhaar/fgv0.jpg">
+			</div>
+			<a class="page-link" href="https://dracon.es/">{{ page.juego }}</a>
+		</div>  
+  	{% endfor %}
+	
+  </section>
 </article>
