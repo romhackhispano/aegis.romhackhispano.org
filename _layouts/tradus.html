@@ -9,8 +9,7 @@ layout: default
   
   	{% for page in site.data.tradus %}
 		<div class="tradu">
-			<div class="image">
-				<img src="https://dracon.es/plhaar/fgv0.jpg">
+			<div class="image" style="background: url({{ site.baseurl }}/traducciones/img/{{ page.url }});">
 			</div>
 			<a class="page-link" href="https://dracon.es/">{{ page.juego }}</a>
 		</div>  
