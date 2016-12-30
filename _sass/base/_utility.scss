@@ -44,11 +44,17 @@ a.button:hover {
 .tradu .image {
   height: 10em;
   overflow: hidden;
+  border-radius: 0.3em;
+  border: 1px solid;
+  display: inline-block;
+  margin: 1em 0;
+  padding: 0.5em 0.75em;
 }
 
 .tradu .image img {
   width: 100%;
   height: auto;
+  overflow: hidden;
 }
 
 .tradu a {

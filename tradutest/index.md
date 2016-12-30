@@ -1,6 +1,6 @@
 ---
 layout: tradus
 title: Traducciones
-permalink: /traducciones/
+permalink: /tradutest/
 feature-img: "img/momi-pond.jpg"
 ---
