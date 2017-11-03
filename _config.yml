@@ -22,14 +22,14 @@ theme_settings:
      Este sitio está alojado en <a href="http://www.romhackhispano.org">Romhack Hispano</a> y funciona bajo <a href="http://jekyllrb.com">Jekyll</a> en <a href="http://github.com">GitHub</a>.
   # El contenido mostrado aquí es copyright de sus respectivos autores originales. Aegis Traducciones condena el empleo de <i>software</i> obtenido de manera ilegal y no se hace responsable de los efectos causados por el mal uso de las herramientas publicadas en este sitio. Consulta la <a href="https://help.disqus.com/customer/portal/articles/466259-privacy-policy">política de privacidad</a>. Aegis Traducciones es posible gracias a la inestimable colaboración de la escena hispana.  con el tema <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> modificado por TheFireRed.
   # Icons
-  rss: true
+  # rss: true
   email_address:
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "TheFireRed"
+  # github: "TheFireRed"
   google_plus:
   instagram:
   linkedin:
@@ -39,13 +39,13 @@ theme_settings:
   stack_exchange:
   steam:
   tumblr:
-  twitter: "TheFireRed"
+  # twitter: "TheFireRed"
   wordpress:
-  youtube: "TheFireRed"
+  # youtube: "TheFireRed"
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: aegistrad
+  # disqus_shortname: aegistrad
   katex: true # Enable if using math markup
 
   # Localization strings
